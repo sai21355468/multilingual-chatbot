@@ -1,0 +1,4 @@
+instructions to run the project 
+-> you open the multilingual chatbot folder 
+-> you open the multilingual chatbot.ipynb file and run all the blocks 
+-> if you wish to use it in the browser then click on the url as it will be running on a local host as well after you run all the blocks in        the file
